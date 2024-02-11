@@ -1,4 +1,4 @@
-## Hi There:wave:
+## Hi There :wave:
 
 I'm Dhruv, an undergraduate currently studying Artificial Intelligence and Computer Science at The University of Manchester.
 
